@@ -7,6 +7,9 @@ Do you love your MiniSB but fed up with having extrusion issues / having to repl
 
 Well this might be the MOD for YOU!
 
+<img width="1398" height="1117" alt="image" src="https://github.com/user-attachments/assets/9d42be32-5fe0-48f1-8845-38f29079cbb1" />
+
+
 This MOD adds a simple PIN to the Guidler pivot point to STOP that ware from happening!
 
 All you need are these THREE printed parts and a 3mm PIN 25-27mm long and your set!
