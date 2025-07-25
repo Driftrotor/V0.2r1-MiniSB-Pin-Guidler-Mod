@@ -14,17 +14,8 @@ This MOD adds a simple PIN to the Guidler pivot point to STOP that ware from hap
 
 All you need are these THREE printed parts and a 3mm PIN 25-27mm long and your set!
 
-The pin provides a stable and precise pivot to provide a super stable guidler for your extrusion gears in the MiniSB ensuring a more consistent and longer lasting Toolhead for your V0!
+The pin provides a stable and precise pivot to give a super stable guidler for your extrusion gears in the MiniSB, ensuring a more consistent and longer lasting Toolhead for your V0!
 
-Printed with standard Voron Print Settings
-
-4 perimeters
-
-5 Top / Bottom layers
-
-40% infill
-
-All parts have been laid on a V0 bed for easy printing!
 
 NOTE, The PIN holes will require you to gently run a 3mm drill bit through them to give the perfect FIT for the PIN.
 this is purposefully done so that everyone gets that perfect FIT
